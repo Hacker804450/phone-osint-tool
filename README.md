@@ -1,5 +1,8 @@
-# phone-osint-tool
-A simple OSINT tool for gathering publicly available information from phone numbers.
+# 📱 Phone OSINT Tool
+
+![Banner](assets/banner.png)
+
+A simple Python-based OSINT tool for gathering publicly available information from phone numbers.
 ![OSINT](https://img.shields.io/badge/OSINT-Tool-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
